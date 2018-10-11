@@ -1,0 +1,6 @@
+[package]
+name = "rmcalc"
+version = "0.1.0"
+authors = ["Kilian Kilger <kkilger@gmail.com>"]
+
+[dependencies]
